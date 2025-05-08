@@ -1,0 +1,29 @@
+Okay, I have analyzed the provided list of math problems. Based on their solution methods and underlying mathematical concepts, I've grouped them into the following 7 categories:
+
+**1. Basic Arithmetic and Number Sense**
+*   **Description:** Problems solvable primarily through direct application of addition, subtraction, multiplication, division, order of operations, number properties (like remainder, factors), or simple unit conversions not embedded in complex scenarios.
+*   **Example:** `'除数是6，商是75，余数是1，被除数=．'` (The divisor is 6, the quotient is 75, the remainder is 1, find the dividend.)
+
+**2. Fractions, Percentages, Ratios, and Proportions**
+*   **Description:** Problems involving calculations with fractions, percentages (increase/decrease, finding parts, finding the whole), ratios, direct and inverse proportions, and comparing quantities using these concepts. This is a very broad category covering many word problems.
+*   **Example:** `'张明有120元钱，买书用去80%，买文具的钱是买书的15%．买文具用去多少元？'` (Zhang Ming has 120 yuan, spent 80% on books. The money for stationery is 15% of the money for books. How much was spent on stationery?)
+
+**3. Geometry: Perimeter, Area, Volume**
+*   **Description:** Problems requiring the calculation of perimeter, circumference, area (squares, rectangles, circles, triangles, composite shapes), surface area, or volume (cubes, cuboids, cylinders) using geometric formulas.
+*   **Example:** `'一个圆的半径是3厘米，如果把它的半径延长2厘米，那么面积增加多少．'` (The radius of a circle is 3 cm. If its radius is extended by 2 cm, how much does the area increase?)
+
+**4. Rate and Work Problems**
+*   **Description:** Problems involving relationships between distance, speed, and time; work done, rate of work, and time; or other rates like cost per unit, production per day, flow rate. Includes meeting/overtaking problems and unit rate calculations.
+*   **Example:** `'甲乙两辆汽车同时从同一地点向相反的方向行驶，4小时后两车相距300千米，已知甲车每小时行40千米，乙车每小时行多少千米？'` (Two cars, A and B, start simultaneously from the same point in opposite directions. After 4 hours, they are 300 km apart. Car A travels at 40 km/h. How fast does car B travel?)
+
+**5. Financial Mathematics**
+*   **Description:** Problems focused on monetary calculations such as profit, loss, cost price, selling price, discounts, interest (simple and compound), taxes, and currency conversions or comparisons.
+*   **Example:** `'一本字典定价9元，0.8出售后还赚20%，这本字典进价=多少元．'` (A dictionary priced at 9 yuan is sold at an 80% discount (0.8 of the price) and still makes a 20% profit. What is the cost price of the dictionary?)
+
+**6. Algebraic and Equation-Based Reasoning**
+*   **Description:** Problems most naturally solved by setting up one or more equations with variables (unknowns). This includes "find the number" problems, age problems, mixture-like problems, and classic word problems like the "chicken-rabbit cage" type where relationships between quantities need to be formalized algebraically.
+*   **Example:** `'在一个停车场上，汽车、摩托车共停了48辆，其中每辆汽车有4个轮子，每辆摩托车有3个轮子，这些车共172个轮子，停车场上有摩托车多少辆．'` (In a parking lot, there are 48 vehicles in total (cars and motorcycles). Each car has 4 wheels, each motorcycle has 3 wheels. There are 172 wheels in total. How many motorcycles are in the parking lot?)
+
+**7. Logic, Sets, Combinatorics, and Patterns**
+*   **Description:** Problems involving logical deduction, set theory (Venn diagrams, inclusion-exclusion), counting principles (combinations, permutations), probability, identifying and extending sequences or patterns, and specific puzzle types like interval/planting problems.
+*   **Example:** `'在一正方形花池的4周栽了44棵柳树，每两棵柳树之间的间隔是20米，这个正方形的周长=多少米？'` (Around a square flower bed, 44 willow trees were planted. The interval between any two trees is 20 meters. What is the perimeter of the square?)
